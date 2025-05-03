@@ -1,7 +1,3 @@
-[package]
-name = "engine-18xx-rs"
-version = "0.1.0"
-edition = "2024"
-
-[dependencies]
-bevy = "0.16.0"
+[workspace]
+resolver = "2"
+members = [ "client-1830-tui","server-1830-cli"]
