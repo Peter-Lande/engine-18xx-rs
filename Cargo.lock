@@ -1510,6 +1510,10 @@ dependencies = [
 ]
 
 [[package]]
+name = "client-1830-tui"
+version = "0.1.0"
+
+[[package]]
 name = "codespan-reporting"
 version = "0.11.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -1870,13 +1874,6 @@ dependencies = [
  "proc-macro2",
  "quote",
  "syn",
-]
-
-[[package]]
-name = "engine-18xx-rs"
-version = "0.1.0"
-dependencies = [
- "bevy",
 ]
 
 [[package]]
@@ -3664,6 +3661,13 @@ dependencies = [
  "memchr",
  "ryu",
  "serde",
+]
+
+[[package]]
+name = "server-1830-cli"
+version = "0.1.0"
+dependencies = [
+ "bevy",
 ]
 
 [[package]]
