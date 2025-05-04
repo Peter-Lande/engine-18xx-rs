@@ -4,3 +4,8 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+bevy = "0.16.0"
+bevy_quinnet = "0.17.0"
+bevy_ratatui = "0.8.3"
+crossterm = "0.29.0"
+ratatui = "0.29.0"
