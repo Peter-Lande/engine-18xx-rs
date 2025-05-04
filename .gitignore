@@ -19,3 +19,7 @@ target/
 # Added by cargo
 
 /target
+
+# web client stuff 
+client-1830-web/pkg/
+client-1830-web/site/node_modules/
